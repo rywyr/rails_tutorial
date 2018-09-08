@@ -29,6 +29,5 @@ group :test do
   gem 'guard-minitest',           '2.4.4'
 end
 
-group :production do
-  gem 'pg', '0.20.0'
-end
+#sds
+
